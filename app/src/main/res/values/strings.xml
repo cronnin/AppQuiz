@@ -1,0 +1,64 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">App Quiz</string>
+    <string name="texto_titulo">Você conhece Médicos Sem Fronteiras?</string>
+
+    <string name="pergunta1">1- Em aproximadamente quantos países MSF atua com ajuda humanitária?</string>
+    <string name="op1p1">65</string>
+    <string name="op2p1">70</string> <!-- Resposta certa -->
+    <string name="op3p1">75</string>
+    <string name="op4p1">80</string>
+
+    <string name="resposta1C">Resposta 1: Certo</string>
+    <string name="resposta1E">Resposta 1: Errado. \nMSF atua em aproximadamente 70 países.</string>
+
+
+    <string name="pergunta2">2- Quais desses profissionais podem ser voluntários?</string> <!-- Todas corretas -->
+    <string name="op1p2">Enfermeiro</string>
+    <string name="op2p2">Especialista em água e saneamento</string>
+    <string name="op3p2">Psicólogo/Psiquiatra</string>
+    <string name="op4p2">Coordenador financeiro</string>
+
+    <string name="resposta2C">Resposta 2: Certo. \nAlém dessas, muitas outras profissões podem ajudar MSF.</string>
+    <string name="resposta2E">Resposta 2: Errado. \nAlém de todos profissionais listados, muitas outras profissões podem ajudar MSF.</string>
+
+
+    <string name="pergunta3">3- MSF tem o compromisso de destinar 80% de todos os recursos arrecadados às atividades de ajuda humanitária que realiza em campo.</string>
+    <string name="op1p3">Verdadeiro</string> <!-- Resposta certa -->
+    <string name="op2p3">Falso</string>
+
+    <string name="resposta3C">Resposta 3: Certo</string>
+    <string name="resposta3E">Resposta 3: Errado.</string>
+
+
+    <string name="pergunta4">4- Quais são as formas de doar para MSF?</string>
+    <string name="op1p4">Regular ou Pontual através de débito em conta</string>     <!-- Resposta certa -->
+    <string name="op2p4">Regular ou Pontual enviando dinheiro pelo correio</string>
+    <string name="op3p4">Regular ou Pontual através de boleto bancário</string>     <!-- Resposta certa -->
+
+    <string name="resposta4C">Resposta 4: Certo. \nMSF só aceita doações através de cartão ou boleto.</string>
+    <string name="resposta4E">Resposta 4: Errado. \nMSF só aceita doações através de cartão ou boleto.</string>
+
+
+    <string name="pergunta5">5- No Brasil qual valor mínimo aceito para doações Regulares ou Pontuais?</string>
+    <string name="op1p5">5 reais</string>
+    <string name="op2p5">10 reais</string> <!-- Resposta certa -->
+    <string name="op3p5">15 reais</string>
+    <string name="op4p5">20 reais</string>
+
+    <string name="resposta5C">Resposta 5: Certo</string>
+    <string name="resposta5E">Resposta 5: Errado. \nA partir de 10 reais você já pode ajudar a salvar vidas.</string>
+
+
+    <string name="pergunta6">6- País que MSF atua levando ajuda humanitária:</string> <!-- Todas corretas -->
+    <string name="hintP6">Resposta</string>
+    <string name="op1p6">Síria</string>
+
+    <string name="resposta6C">Resposta 6: Certo</string>
+    <string name="resposta6E">Resposta 6: Errado</string>
+
+    <string name="pontuacao">Pontuação: <xliff:g example="10" id="pontos">%s</xliff:g></string>
+
+    <string name="fim">Acesse https://www.msf.org.br e saiba mais.</string>
+    <string name="btnResposta">Verificar respostas</string>
+
+</resources>
